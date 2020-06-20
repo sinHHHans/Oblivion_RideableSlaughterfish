@@ -1,5 +1,6 @@
 # Readme for sinHHHans Rideable Slaughterfish
 
+See this ingame video of the Mod:
 [![Overview](figure1.jpg)](https://www.youtube.com/watch?v=saoga2bYI8E "Mod Video")
 
 ## Summary
